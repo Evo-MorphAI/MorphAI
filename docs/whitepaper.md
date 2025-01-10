@@ -16,4 +16,3 @@ Morph aims to create a self-sustaining ecosystem of evolving AI entities, where 
 - Economic Sustainability
 - Community Governance
 
-[Rest of the whitepaper content remains the same, just replace any instances of "NEST" with "Morph"]
